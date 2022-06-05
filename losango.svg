@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="59.07737mm"
+   height="59.07737mm"
+   viewBox="0 0 59.077369 59.077369"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="losango.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.0333333"
+     inkscape:cx="31.47541"
+     inkscape:cy="104.26229"
+     inkscape:window-width="1280"
+     inkscape:window-height="777"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="382.53317"
+       y="389.48831"
+       width="105.02274"
+       height="98.067596"
+       id="rect7957" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-158.62198,-45.015404)">
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#40c1a8;fill-opacity:1;stroke:#000000;stroke-width:2.08197;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8"
+       id="path35"
+       inkscape:flatsided="false"
+       sodipodi:sides="4"
+       sodipodi:cx="245.90164"
+       sodipodi:cy="206.55737"
+       sodipodi:r1="114.74424"
+       sodipodi:r2="81.012169"
+       sodipodi:arg1="1.5747311"
+       sodipodi:arg2="2.3601293"
+       inkscape:rounded="-3.469447e-18"
+       inkscape:randomized="0"
+       d="m 245.45015,321.30072 -57.05772,-57.68494 -57.23414,-57.5099 57.68494,-57.05772 57.5099,-57.234139 57.05772,57.684939 57.23414,57.5099 -57.68494,57.05773 z"
+       transform="matrix(0.25416667,0,0,0.25416667,125.66066,22.054089)"
+       inkscape:transform-center-x="-0.66588985"
+       inkscape:transform-center-y="-2.1680468" />
+    <g
+       aria-label="V"
+       transform="matrix(0.33312579,0,0,0.33312579,43.235982,-70.795229)"
+       id="text7955"
+       style="font-size:85.3333px;line-height:1.25;text-align:center;text-anchor:middle;white-space:pre;shape-inside:url(#rect7957);fill:#ffffff">
+      <path
+         d="m 466.62824,405.2988 -22.62499,62.04164 H 426.08659 L 403.4616,405.2988 h 16.79166 l 15,43.58331 14.99999,-43.58331 z"
+         style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+         id="path34517" />
+    </g>
+  </g>
+</svg>
